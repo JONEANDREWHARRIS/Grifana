@@ -1,0 +1,74 @@
+[
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "M",
+    "PiezasBuenas": 1034,
+    "PiezasTotal": 1041,
+    "Calidad": 0.993275696445725
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "T",
+    "PiezasBuenas": 776,
+    "PiezasTotal": 777,
+    "Calidad": 0.998712998712999
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A18",
+    "Turno": "N",
+    "PiezasBuenas": 1087,
+    "PiezasTotal": 1091,
+    "Calidad": 0.996333638863428
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "M",
+    "PiezasBuenas": 989,
+    "PiezasTotal": 995,
+    "Calidad": 0.993969849246231
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "T",
+    "PiezasBuenas": 755,
+    "PiezasTotal": 755,
+    "Calidad": 1
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00A70",
+    "Turno": "N",
+    "PiezasBuenas": 991,
+    "PiezasTotal": 994,
+    "Calidad": 0.996981891348089
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "M",
+    "PiezasBuenas": 1103,
+    "PiezasTotal": 1110,
+    "Calidad": 0.993693693693694
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "T",
+    "PiezasBuenas": 845,
+    "PiezasTotal": 845,
+    "Calidad": 1
+  },
+  {
+    "fechafin": "16-09-22",
+    "idpuesto": "00H49",
+    "Turno": "N",
+    "PiezasBuenas": 1144,
+    "PiezasTotal": 1148,
+    "Calidad": 0.996515679442509
+  }
+]
